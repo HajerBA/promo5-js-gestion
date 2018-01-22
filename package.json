@@ -1,0 +1,25 @@
+{
+  "name": "jsgestion",
+  "version": "0.0.1",
+  "description": "a js project for webpack and stuff ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HajerBA/promo5-js-gestion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HajerBA/promo5-js-gestion/issues"
+  },
+  "homepage": "https://github.com/HajerBA/promo5-js-gestion#readme",
+  "dependencies": {
+    "dev-dependencies": "^1.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
